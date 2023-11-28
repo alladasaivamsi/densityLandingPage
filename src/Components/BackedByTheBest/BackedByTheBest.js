@@ -13,7 +13,7 @@ import AdityaNagarsheth from "../../assests/Aditya Nagarsheth.png";
 import GokulRajaram from "../../assests/Gokul Rajaram.png";
 import SajidRehman from "../../assests/Sajid Rehman.png";
 import ArjunSethi from "../../assests/Arjun Sethi.png";
-import KunalShah from "../../assests/KunalShah.png";
+import KunalShah from "../../assests/Kunal Shah.png";
 
 import {
   BackedByTheBestData,
