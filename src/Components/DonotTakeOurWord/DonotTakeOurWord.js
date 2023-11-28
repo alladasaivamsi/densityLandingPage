@@ -1,8 +1,8 @@
 import React from "react";
-import Frame from "../../../public/assests/Frame.png";
-import Prakash from "../../../public/assests/Prakash.png";
-import ShambhaviNayak from "../../../public/assests/Shambhavi Nayak.png";
-import ArjunNaik from "../../../public/assests/Arjun Naik.png";
+import Frame from "../../assests/Frame.png";
+import Prakash from "../../assests/Prakash.png";
+import ShambhaviNayak from "../../assests/Shambhavi Nayak.png";
+import ArjunNaik from "../../assests/Arjun Naik.png";
 import {
   DonotTakeOurWordData,
   DonotTakeOurWordHeading,
