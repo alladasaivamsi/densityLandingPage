@@ -1,5 +1,5 @@
 import React from "react";
-import vector from "../../../public/assests/Vector 1.png";
+import vector from "../../assests/Vector 1.png";
 import { Vector } from "../../ComponentStyles/Component.styled.js";
 
 const detailBoxData = [
