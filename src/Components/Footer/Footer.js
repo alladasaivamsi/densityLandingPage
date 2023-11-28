@@ -1,9 +1,9 @@
 import React from "react";
-import densityLogo from "../../../public/assests/logo.png";
-import facebook from "../../../public/assests/facebook.png";
-import twitter from "../../../public/assests/twitter.png";
-import linkedin from "../../../public/assests/linkedin.png";
-import instagram from "../../../public/assests/instagram.png";
+import densityLogo from "../../assests/logo.png";
+import facebook from "../../assests/facebook.png";
+import twitter from "../../assests/twitter.png";
+import linkedin from "../../assests/linkedin.png";
+import instagram from "../../assests/instagram.png";
 import { Link } from "gatsby";
 import {
   FooterData,

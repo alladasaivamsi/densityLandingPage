@@ -1,5 +1,5 @@
 import React from "react";
-import market from "../../../public/assests/market.png";
+import market from "../../assests/market.png";
 import {
   ExploreTheMarketData,
   ExploreTheMarketHeading1,

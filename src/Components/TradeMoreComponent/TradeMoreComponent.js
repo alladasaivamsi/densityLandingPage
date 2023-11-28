@@ -1,7 +1,7 @@
 import React from "react";
-import CoinDCX from "../../../public/assests/CoinDCX.png";
-import densityLogo from "../../../public/assests/logo.png";
-import DeltaExchange from "../../../public/assests/DeltaExchange.png";
+import CoinDCX from "../../assests/CoinDCX.png";
+import densityLogo from "../../assests/logo.png";
+import DeltaExchange from "../../assests/DeltaExchange.png";
 import {
   TradeMore,
   Cards,

@@ -1,5 +1,5 @@
 import React from "react";
-import vector1 from "../../../public/assests/Vector 1.png";
+import vector1 from "../../assests/Vector 1.png";
 import {
   TradeTogetherBtn,
   TradeTogetherText,

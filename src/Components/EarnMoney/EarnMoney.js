@@ -1,9 +1,9 @@
 import React from "react";
 import Horn from "../../../public/assests/Horn.png";
-import EarnMoney1 from "../../../public/assests/EarnMoney1.png";
-import EarnMoney2 from "../../../public/assests/EarnMoney2.png";
-import EarnMoney3 from "../../../public/assests/EarnMoney3.png";
-import Frame from "../../../public/assests/Frame.png";
+import EarnMoney1 from "../../assests/EarnMoney1.png";
+import EarnMoney2 from "../../assests/EarnMoney2.png";
+import EarnMoney3 from "../../assests/EarnMoney3.png";
+import Frame from "../../assests/Frame.png";
 import {
   EarnMoneyData,
   HornImage,

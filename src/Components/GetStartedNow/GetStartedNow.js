@@ -1,5 +1,5 @@
 import React from "react";
-import phone5 from "../../../public/assests/phone5.png";
+import phone5 from "../../assests/phone5.png";
 import { GetStartedNowData } from "../../ComponentStyles/Component.styled.js";
 
 const GetStartedNow = () => {

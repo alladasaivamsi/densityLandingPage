@@ -1,6 +1,6 @@
 import React from "react";
-import vector2 from "../../../public/assests/Vector 2.png";
-import frontiers from "../../../public/assests/frontiers.png";
+import vector2 from "../../assests/Vector 2.png";
+import frontiers from "../../assests/frontiers.png";
 import {
   FrontiersVector,
   Frontiers,

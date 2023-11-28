@@ -1,8 +1,8 @@
 import React from "react";
-import AakashNeerajMittal from "../../../public/assests/Aakash Neeraj Mittal.png";
-import DeepakVasman from "../../../public/assests/Deepak Vasman.png";
-import ulinkedin from "../../../public/assests/ulinkedin.png";
-import BhupendraBule from "../../../public/assests/Bhupendra Bule.png";
+import AakashNeerajMittal from "../../assests/Aakash Neeraj Mittal.png";
+import DeepakVasman from "../../assests/Deepak Vasman.png";
+import ulinkedin from "../../assests/ulinkedin.png";
+import BhupendraBule from "../../assests/Bhupendra Bule.png";
 import {
   Visionar,
   VisionarCards,

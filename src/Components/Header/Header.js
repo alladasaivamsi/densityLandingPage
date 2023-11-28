@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../../../public/assests/density-logo.jpeg";
+import logo from "../../assests/density-logo.jpeg";
 import {
   HeaderData,
   DensityLogo,

@@ -1,7 +1,7 @@
 import React from "react";
-import phone1 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (1).png";
-import phone2 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (2).png";
-import phone3 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (3).png";
+import phone1 from "../../assests/iPhone 14 Pro Space Black Mockup (1).png";
+import phone2 from "../../assests/iPhone 14 Pro Space Black Mockup (2).png";
+import phone3 from "../../assests/iPhone 14 Pro Space Black Mockup (3).png";
 import {
   HeroData,
   HeroHeading,

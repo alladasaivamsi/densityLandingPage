@@ -1,7 +1,7 @@
 import React from "react";
-import Manager from "../../../public/assests/Manager.png";
-import Deposit from "../../../public/assests/Deposit.png";
-import Frame from "../../../public/assests/Frame.png";
+import Manager from "../../assests/Manager.png";
+import Deposit from "../../assests/Deposit.png";
+import Frame from "../../assests/Frame.png";
 import {
   StartSmallData,
   StartSmallCards,

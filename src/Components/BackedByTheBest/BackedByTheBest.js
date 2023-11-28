@@ -1,19 +1,19 @@
 import React from "react";
-import ORIOS from "../../../public/assests/Orios.png";
-import INFLECTION from "../../../public/assests/Inflection.png";
-import iSeed from "../../../public/assests/iSeed.png";
-import perpetual from "../../../public/assests/perpetual.png";
-import rise from "../../../public/assests/1947rise.png";
-import TribeCapital from "../../../public/assests/TribeCapital.png";
-import polygonLabs from "../../../public/assests/polygonLabs.png";
-import KarnVivekNagpal from "../../../public/assests/Karn Vivek Nagpal.png";
-import SandeepNailawal from "../../../public/assests/Sandeep Nailawal.png";
-import UtsavSomani from "../../../public/assests/UtsavSomani.png";
-import AdityaNagarsheth from "../../../public/assests/Aditya Nagarsheth.png";
-import GokulRajaram from "../../../public/assests/Gokul Rajaram.png";
-import SajidRehman from "../../../public/assests/Sajid Rehman.png";
-import ArjunSethi from "../../../public/assests/Arjun Sethi.png";
-import KunalShah from "../../../public/assests/Kunal Shah.png";
+import ORIOS from "../../assests/Orios.png";
+import INFLECTION from "../../assests/Inflection.png";
+import iSeed from "../../assests/iSeed.png";
+import perpetual from "../../assests/perpetual.png";
+import rise from "../../assests/1947rise.png";
+import TribeCapital from "../../assests/TribeCapital.png";
+import polygonLabs from "../../assests/polygonLabs.png";
+import KarnVivekNagpal from "../../assests/Karn Vivek Nagpal.png";
+import SandeepNailawal from "../../assests/Sandeep Nailawal.png";
+import UtsavSomani from "../../assests/UtsavSomani.png";
+import AdityaNagarsheth from "../../assests/Aditya Nagarsheth.png";
+import GokulRajaram from "../../assests/Gokul Rajaram.png";
+import SajidRehman from "../../assests/Sajid Rehman.png";
+import ArjunSethi from "../../assests/Arjun Sethi.png";
+import KunalShah from "../../assests/KunalShah.png";
 
 import {
   BackedByTheBestData,

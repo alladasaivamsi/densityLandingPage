@@ -1,11 +1,11 @@
 import React from "react";
-import phone1 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (1).png";
-import phone4 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (4).png";
-import phone2 from "../../../public/assests/iPhone 14 Pro Space Black Mockup (2).png";
-import DerivatesGroup1 from "../../../public/assests/DerivatesGroup1.png";
-import Coin from "../../../public/assests/Coin.png";
-import TradingPair from "../../../public/assests/Trading Pair.png";
-import Vector6 from "../../../public/assests/Vector 6.png";
+import phone1 from "../../assests/iPhone 14 Pro Space Black Mockup (1).png";
+import phone4 from "../../assests/iPhone 14 Pro Space Black Mockup (4).png";
+import phone2 from "../../assests/iPhone 14 Pro Space Black Mockup (2).png";
+import DerivatesGroup1 from "../../assests/DerivatesGroup1.png";
+import Coin from "../../assests/Coin.png";
+import TradingPair from "../../assests/Trading Pair.png";
+import Vector6 from "../../assests/Vector 6.png";
 import {
   Derivates,
   DerivatesHeading,
